@@ -1,0 +1,76 @@
+#d {
+
+    position: absolute;
+    left: 30%;
+    top: 30%;
+
+
+
+}
+#b {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+
+
+}
+
+#o {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+
+
+}
+
+#h {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+
+}
+#d, #b, #o, #h {
+width: 160px;
+background-border: red;
+height: 30px;
+
+}
+
+p {
+
+    position: absolute;
+    left:28%;
+    top: 29%;
+
+}
+
+p1 {
+    position: absolute;
+    left: 28%;
+    top: 41%;
+
+}
+
+p2 {
+
+    position: absolute;
+    left: 28%;
+    top: 51%;
+
+}
+
+p3 {
+
+    position: absolute;
+    left: 28%;
+    top: 61%;
+}
+
+
+#button {
+    background-color:red;
+    position: absolute;
+    width: 80px;
+    left: 30%;
+    top: 70%;
+}
